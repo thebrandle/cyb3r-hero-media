@@ -5,4 +5,4 @@ Homepage hero showreel for cyb3rmedia.com, served via jsDelivr. Kept separate fr
 - herocyb3r-1920-v11.mp4: desktop (1920 CRF28 veryslow)
 - herocyb3r-1280-v11.mp4: max-width 991px (1280 CRF26)
 - herocyb3r-poster-v11.jpg: poster
-- v9 files kept for rollback
+- v9 rollback: commit 039ea9dbeb25b7bb57a5e3a89528669d1159d303 (one version per commit: jsDelivr caps a commit at 50 MB)
